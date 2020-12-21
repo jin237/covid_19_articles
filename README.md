@@ -15,7 +15,10 @@ COVID-19ウイルスに感染したほとんどの人は、軽度から中度の
 COVID-19ウイルスは、主に感染者が咳やくしゃみをしたときの唾液の飛沫や鼻からの排出物を介して感染するため、席をする時などのエチケットが大切である。
 <br><br>
 
-# resources on coronavirus disease<br>論文引用元のページ
+# My "Note" page that I summarize articles. <br>僕自身が読んでまとめた"Note"
+URL：　https://note.com/jin237
+
+# Resources on coronavirus disease<br>論文引用元のページ
 
 - [BMJ]<br>
 URL: https://www.bmj.com/coronavirus
