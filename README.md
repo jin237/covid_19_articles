@@ -1,8 +1,8 @@
-# Information about SARS-CoV-2 virus(コロナウイルスについての情報)
+# Information about SARS-CoV-2 virus<br>コロナウイルスについての情報
 I precis the contents of the SARS-CoV-2 virus from some articles.
 このリポジトリはコロナイウルスについての情報を様々な論文を基にまとめたものです。
 <br><br>
-# What is SARS-CoV-2 virus = COVID-19(コロナウイルスって何？)
+# What is SARS-CoV-2 virus = COVID-19<br>コロナウイルスって何？
 [Wordld Helth Organization "Coronavirus"](https://www.who.int/health-topics/coronavirus#tab=tab_1)
 >Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
 >Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
