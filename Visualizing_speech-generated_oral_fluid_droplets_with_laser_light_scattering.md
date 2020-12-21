@@ -1,7 +1,3 @@
-# まとめたもの
-
-コロナに関する情報を簡単にまとめていきます。 論文や主要機関の記事などを参考にまとめていきますのでそこそこの（正しい）情報だと思います。具体的、専門的なことについては一切書きません。読みやすい記事にします。
-
 # Visualizing speech-generated oral fluid droplets with laser light scattering
 レーザー光散乱による音声生成口腔液滴の可視化<br>
 
