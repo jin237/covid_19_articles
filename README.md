@@ -14,25 +14,37 @@ I precis the contents of the SARS-CoV-2 virus from some articles.
 COVID-19ウイルスに感染したほとんどの人は、軽度から中度の呼吸器疾患を引き起こし、特別な治療を必要とせずに回復するが、高齢者や、心血管疾患、糖尿病、慢性呼吸器疾患、がんなどの基礎疾患を持つ人は、重症化する可能性が高い。感染を予防し、感染を遅らせるための最善の方法は、COVID-19ウイルスが引き起こす病状と感染の広がり方について十分な情報を知ること。手を洗うことやアルコール消毒を頻繁に行い、顔など触れないようにすることで自分自身及び他の人を感染から守る。
 COVID-19ウイルスは、主に感染者が咳やくしゃみをしたときの唾液の飛沫や鼻からの排出物を介して感染するため、席をする時などのエチケットが大切である。
 <br><br>
+
 # resources on coronavirus disease<br>論文引用元のページ
-- [BMJ]
-  URL: https://www.bmj.com/coronavirus
+
+- [BMJ]<br>
+URL: https://www.bmj.com/coronavirus
+
 - [Cambridge University Press]<br>
-  URL: https://www.cambridge.org/core/browse-subjects/medicine/coronavirus-free-access-collection
+URL: https://www.cambridge.org/core/browse-subjects/medicine/coronavirus-free-access-collection
+
 - [Centers for Disease Control and Prevention]<br>
-  URL: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+URL: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+
 - [Cochrane]<br>
-  URL: https://www.cochrane.org/our-evidence/coronavirus-covid-19-resources
+URL: https://www.cochrane.org/our-evidence/coronavirus-covid-19-resources
+
 - [Elsevier]<br>
-  URL: https://www.elsevier.com/connect/coronavirus-information-center
+URL: https://www.elsevier.com/connect/coronavirus-information-center
+
 - [JAMA Network]<br>
-  URL: https://jamanetwork.com/journals/jama/pages/coronavirus-alert
+URL: https://jamanetwork.com/journals/jama/pages/coronavirus-alert
+
 - [The Lancet]<br>
-  URL: https://www.thelancet.com/coronavirus
+URL: https://www.thelancet.com/coronavirus
+
 - [New England Journal of Medicine]<br>
-  URL: https://www.nejm.org/coronavirus
+URL: https://www.nejm.org/coronavirus
+
 - [Springer Nature Japan]<br>
-  URL: https://www.springernature.com/jp
-- [新型コロナウイルス感染症について 厚生労働省]
-  URL: https://www.mhlw.go.jp/stf/covid-19/kokunainohasseijoukyou.html
+URL: https://www.springernature.com/jp
+
+- [新型コロナウイルス感染症について 厚生労働省]<br>
+URL: https://www.mhlw.go.jp/stf/covid-19/kokunainohasseijoukyou.html
+
 <br><br>
