@@ -52,21 +52,17 @@ URL: https://www.mhlw.go.jp/stf/covid-19/kokunainohasseijoukyou.html
 
 <br><br>
 # まとめた論文一覧
-- [Visualizing speech-generated oral fluid droplets with laser light scattering](https://www.nejm.org/doi/full/10.1056/NEJMc2007800)
-  - [github](https://github.com/jin237/covid_19_articles/blob/main/summary/Visualizing_speech-generated_oral_fluid_droplets_with_laser_light_scattering.md#visualizing-speech-generated-oral-fluid-droplets-with-laser-light-scattering)
-  - [Note](https://note.com/jin237/n/na9abe523f39e)
-- [Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293495/)
-  - [github](https://github.com/jin237/covid_19_articles/blob/main/summary/Transmission_of_COVID-19_virus_by_droplets_and_aerosols:_A_critical_review_on_the_unresolved_dichotomy.md)
-  - [Note](https://note.com/jin237/n/nbb68b3e22418)
+- [Visualizing speech-generated oral fluid droplets with laser light scattering](https://www.nejm.org/doi/full/10.1056/NEJMc2007800)<br>
+[github](https://github.com/jin237/covid_19_articles/blob/main/summary/Visualizing_speech-generated_oral_fluid_droplets_with_laser_light_scattering.md#visualizing-speech-generated-oral-fluid-droplets-with-laser-light-scattering)|[Note](https://note.com/jin237/n/na9abe523f39e)
+- [Transmission of COVID-19 virus by droplets and aerosols: A critical review on the unresolved dichotomy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293495/)<br>[github](https://github.com/jin237/covid_19_articles/blob/main/summary/Transmission_of_COVID-19_virus_by_droplets_and_aerosols:_A_critical_review_on_the_unresolved_dichotomy.md)
+|[Note](https://note.com/jin237/n/nbb68b3e22418)
 - [Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19:
 a systematic review and meta-analysis](https://www.thelancet.com/article/S0140-6736(20)31142-9/fulltext)
-  - [github](https://github.com/jin237/covid_19_articles/tree/main/summary)
-  - [Note](https://note.com/jin237/n/nf98fc9654d06)
+<br>[github](https://github.com/jin237/covid_19_articles/tree/main/summary)
+|[Note](https://note.com/jin237/n/nf98fc9654d06)
 - [Identifying airborne transmission as the dominant route for the spread of COVID-19](https://www.pnas.org/content/117/26/14857)
-  - [github](https://github.com/jin237/covid_19_articles/blob/main/summary/Identifying_airborne_transmission_as_the_dominant_route_for_the_spread_of_COVID-19.md)
-  - [Note](https://note.com/jin237/n/nbfc7140020d5)
+<br>[github](https://github.com/jin237/covid_19_articles/blob/main/summary/Identifying_airborne_transmission_as_the_dominant_route_for_the_spread_of_COVID-19.md)
+|[Note](https://note.com/jin237/n/nbfc7140020d5)
 
 
-- [論文名：論文掲載ページ]()
-  - [github:github上のまとめページ]()
-  - [Note上の投稿ページ]()
+- [論文名：論文掲載ページ]()<br>[github:github上のまとめページ]()|[Note上の投稿ページ]()
