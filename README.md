@@ -70,7 +70,7 @@ a systematic review and meta-analysis](https://www.thelancet.com/article/S0140-6
 [Note](https://note.com/jin237/n/nbfc7140020d5)
 
 
-- [論文名：論文掲載ページ]()
-<br>[github:github上のまとめページ]()
+- 論文名：論文掲載ページ
+<br>github:github上のまとめページ
 |
-[Note上の投稿ページ]()
+Note上の投稿ページ
